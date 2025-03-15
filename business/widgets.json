@@ -1,0 +1,125 @@
+{
+    "sidebar-1": {
+        "nevo_advertisement_image-0": {
+            "title": "",
+            "image_link": "https:\/\/nevothemes.com\/",
+            "width": "",
+            "height": "",
+            "alt": "",
+            "image_url": "https:\/\/demo.nevothemes.com\/business\/wp-content\/uploads\/2025\/02\/ad_345x345.jpg",
+            "separator1": 1
+        },
+        "nevo_posts_list_featured_widget-1": {
+            "title": "Trending",
+            "layout": "content-52",
+            "number": 5,
+            "all_categories": 0,
+            "category": [
+                "9"
+            ],
+            "show_cat": 1,
+            "show_date": 1,
+            "orderby": "post_date",
+            "image_width": "cv-w-120",
+            "image_size": "thumbnail",
+            "separator1": 1
+        }
+    },
+    "sidebar-2": {
+        "block-0": {
+            "content": "<!-- wp:search \/-->"
+        },
+        "block-1": {
+            "content": "<!-- wp:group --><div class=\"wp-block-group\"><!-- wp:heading --><h2>Recent Posts<\/h2><!-- \/wp:heading --><!-- wp:latest-posts \/--><\/div><!-- \/wp:group -->"
+        },
+        "block-2": {
+            "content": "<!-- wp:group --><div class=\"wp-block-group\"><!-- wp:heading --><h2>Recent Comments<\/h2><!-- \/wp:heading --><!-- wp:latest-comments {\"displayAvatar\":false,\"displayDate\":false,\"displayExcerpt\":false} \/--><\/div><!-- \/wp:group -->"
+        },
+        "block-3": {
+            "content": "<!-- wp:group --><div class=\"wp-block-group\"><!-- wp:heading --><h2>Archives<\/h2><!-- \/wp:heading --><!-- wp:archives \/--><\/div><!-- \/wp:group -->"
+        },
+        "block-4": {
+            "content": "<!-- wp:group --><div class=\"wp-block-group\"><!-- wp:heading --><h2>Categories<\/h2><!-- \/wp:heading --><!-- wp:categories \/--><\/div><!-- \/wp:group -->"
+        }
+    },
+    "footer-1": {
+        "nevo_posts_list_featured_widget-0": {
+            "title": "Last News",
+            "layout": "content-52",
+            "number": 2,
+            "all_categories": 0,
+            "category": [],
+            "show_cat": 1,
+            "show_date": 1,
+            "orderby": "post_date",
+            "image_width": "cv-w-120",
+            "image_size": "thumbnail",
+            "separator1": 1
+        }
+    },
+    "footer-2": {
+        "nav_menu-0": {
+            "title": "Site Navigation",
+            "nav_menu": "[[term_id?taxonomy=nav_menu&slug=footer-menu]]"
+        }
+    },
+    "footer-3": {
+        "nevo_advertisement_image-0": {
+            "title": "",
+            "image_link": "#",
+            "width": "",
+            "height": "",
+            "alt": "",
+            "image_url": "https:\/\/demo.nevothemes.com\/business\/wp-content\/uploads\/2025\/02\/logo.png",
+            "separator1": 1
+        }
+    },
+    "footer-4": [],
+    "footer-5": [],
+    "footer-6": [],
+    "home-sidebar-1": {
+        "nevo_posts_list_featured_widget-0": {
+            "title": "Popular News",
+            "layout": "content-52",
+            "number": 5,
+            "all_categories": 0,
+            "category": [],
+            "show_cat": 1,
+            "show_date": 1,
+            "orderby": "post_date",
+            "image_width": "cv-w-120",
+            "image_size": "thumbnail",
+            "separator1": 1
+        },
+        "nevo_advertisement_image-1": {
+            "title": "",
+            "image_link": "https:\/\/nevothemes.com",
+            "width": "",
+            "height": "",
+            "alt": "",
+            "image_url": "https:\/\/demo.nevothemes.com\/business\/wp-content\/uploads\/2025\/02\/ad_345x345.jpg",
+            "separator1": 1
+        },
+        "nevo_posts_list_featured_widget-2": {
+            "title": "Real Estate",
+            "layout": "content-59",
+            "number": 5,
+            "all_categories": 0,
+            "category": [
+                "7"
+            ],
+            "show_cat": 1,
+            "show_date": 1,
+            "orderby": "post_date",
+            "image_width": "cv-w-120",
+            "image_size": "thumbnail",
+            "separator1": 1
+        }
+    },
+    "home-sidebar-2": {
+        "custom_html-0": {
+            "title": "",
+            "content": "<div class=\"qc-content d-none d-md-block\"><a href=\"https:\/\/nevothemes.com\" class=\"single_ad_image\" target=\"_blank\" rel=\"nofollow\"><img src=\"https:\/\/demo.nevothemes.com\/business\/wp-content\/uploads\/2025\/02\/ad_345x345.jpg\" width=\"\" height=\"\" alt=\"\" style=\"width:auto; height:auto;\"><\/a><\/div>"
+        }
+    }
+}
