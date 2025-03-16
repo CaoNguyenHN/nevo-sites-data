@@ -1,6 +1,6 @@
 {
     "sidebar-1": {
-        "nevo_advertisement_image-0": {
+        "nevo_advertisement_image-3": {
             "title": "",
             "image_link": "https:\/\/nevothemes.com\/",
             "width": "",
@@ -9,7 +9,7 @@
             "image_url": "https:\/\/demo.nevothemes.com\/business\/wp-content\/uploads\/2025\/02\/ad_345x345.jpg",
             "separator1": 1
         },
-        "nevo_posts_list_featured_widget-1": {
+        "nevo_posts_list_featured_widget-3": {
             "title": "Trending",
             "layout": "content-52",
             "number": 5,
@@ -26,24 +26,24 @@
         }
     },
     "sidebar-2": {
-        "block-0": {
+        "block-2": {
             "content": "<!-- wp:search \/-->"
         },
-        "block-1": {
+        "block-3": {
             "content": "<!-- wp:group --><div class=\"wp-block-group\"><!-- wp:heading --><h2>Recent Posts<\/h2><!-- \/wp:heading --><!-- wp:latest-posts \/--><\/div><!-- \/wp:group -->"
         },
-        "block-2": {
+        "block-4": {
             "content": "<!-- wp:group --><div class=\"wp-block-group\"><!-- wp:heading --><h2>Recent Comments<\/h2><!-- \/wp:heading --><!-- wp:latest-comments {\"displayAvatar\":false,\"displayDate\":false,\"displayExcerpt\":false} \/--><\/div><!-- \/wp:group -->"
         },
-        "block-3": {
+        "block-5": {
             "content": "<!-- wp:group --><div class=\"wp-block-group\"><!-- wp:heading --><h2>Archives<\/h2><!-- \/wp:heading --><!-- wp:archives \/--><\/div><!-- \/wp:group -->"
         },
-        "block-4": {
+        "block-6": {
             "content": "<!-- wp:group --><div class=\"wp-block-group\"><!-- wp:heading --><h2>Categories<\/h2><!-- \/wp:heading --><!-- wp:categories \/--><\/div><!-- \/wp:group -->"
         }
     },
     "footer-1": {
-        "nevo_posts_list_featured_widget-0": {
+        "nevo_posts_list_featured_widget-7": {
             "title": "Last News",
             "layout": "content-52",
             "number": 2,
@@ -58,13 +58,13 @@
         }
     },
     "footer-2": {
-        "nav_menu-0": {
+        "nav_menu-3": {
             "title": "Site Navigation",
             "nav_menu": "[[term_id?taxonomy=nav_menu&slug=footer-menu]]"
         }
     },
     "footer-3": {
-        "nevo_advertisement_image-0": {
+        "nevo_advertisement_image-6": {
             "title": "",
             "image_link": "#",
             "width": "",
@@ -72,13 +72,19 @@
             "alt": "",
             "image_url": "https:\/\/demo.nevothemes.com\/business\/wp-content\/uploads\/2025\/02\/logo.png",
             "separator1": 1
+        },
+        "text-3": {
+            "title": "",
+            "text": "We bring you the best Premium WordPress Themes that perfect for news, magazine, personal blog, etc. Check our\u00a0<a href=\"https:\/\/nevothemes.com\">landing page<\/a>\u00a0for details.\r\n\r\nLorem ipsum is dummy text or placeholder text commonly used in graphic design, publishing, and web development to fill spaces in a layout where there is no content.",
+            "filter": true,
+            "visual": true
         }
     },
     "footer-4": [],
     "footer-5": [],
     "footer-6": [],
     "home-sidebar-1": {
-        "nevo_posts_list_featured_widget-0": {
+        "nevo_posts_list_featured_widget-4": {
             "title": "Popular News",
             "layout": "content-52",
             "number": 5,
@@ -91,7 +97,7 @@
             "image_size": "thumbnail",
             "separator1": 1
         },
-        "nevo_advertisement_image-1": {
+        "nevo_advertisement_image-4": {
             "title": "",
             "image_link": "https:\/\/nevothemes.com",
             "width": "",
@@ -100,7 +106,7 @@
             "image_url": "https:\/\/demo.nevothemes.com\/business\/wp-content\/uploads\/2025\/02\/ad_345x345.jpg",
             "separator1": 1
         },
-        "nevo_posts_list_featured_widget-2": {
+        "nevo_posts_list_featured_widget-5": {
             "title": "Real Estate",
             "layout": "content-59",
             "number": 5,
@@ -117,7 +123,7 @@
         }
     },
     "home-sidebar-2": {
-        "custom_html-0": {
+        "custom_html-3": {
             "title": "",
             "content": "<div class=\"qc-content d-none d-md-block\"><a href=\"https:\/\/nevothemes.com\" class=\"single_ad_image\" target=\"_blank\" rel=\"nofollow\"><img src=\"https:\/\/demo.nevothemes.com\/business\/wp-content\/uploads\/2025\/02\/ad_345x345.jpg\" width=\"\" height=\"\" alt=\"\" style=\"width:auto; height:auto;\"><\/a><\/div>"
         }
