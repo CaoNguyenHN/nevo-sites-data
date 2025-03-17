@@ -493,7 +493,8 @@
     "newseight_layout": "disable",
     "newsfour_title": "Popular News",
     "newsone_number": "2",
-    "newsone_tabs_or_link": "title",
+    "newsone_tabs_or_link": "none",
+    "newsone_title": "Title Section",
     "newsone_column_gap": {
         "unit": "px",
         "value": "0"
