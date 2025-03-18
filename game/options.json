@@ -21,5 +21,5 @@
         "Nevo_Pro_Module_Blog_Pro": 1,
         "Nevo_Pro_Module_Magazine": 1
     },
-    "widget_visibility": "on"
+    "nevo_widget_visibility": "on"
 }
