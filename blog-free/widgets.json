@@ -1,0 +1,68 @@
+{
+    "sidebar-1": {
+        "nevo_posts_list_featured_widget-2": {
+            "title": "Recent Posts",
+            "layout": "content-59",
+            "number": 5,
+            "all_categories": 0,
+            "category": [],
+            "show_cat": 1,
+            "show_date": 1,
+            "orderby": "post_date",
+            "image_width": "cv-w-120",
+            "image_size": "medium",
+            "separator1": 1
+        },
+        "tag_cloud-2": {
+            "title": "Categories",
+            "count": 0,
+            "taxonomy": "category"
+        },
+        "nevo_advertisement_image-2": {
+            "title": "",
+            "image_link": "https:\/\/nevothemes.com\/",
+            "width": "",
+            "height": "",
+            "alt": "",
+            "text_align": "text-center",
+            "image_url": "https:\/\/demo.nevothemes.com\/blog-free\/wp-content\/uploads\/2025\/03\/ad_300x250-1.jpg",
+            "separator1": 1
+        }
+    },
+    "sidebar-2": {
+        "block-2": {
+            "content": "<!-- wp:search \/-->"
+        },
+        "block-3": {
+            "content": "<!-- wp:group --><div class=\"wp-block-group\"><!-- wp:heading --><h2>Recent Posts<\/h2><!-- \/wp:heading --><!-- wp:latest-posts \/--><\/div><!-- \/wp:group -->"
+        },
+        "block-4": {
+            "content": "<!-- wp:group --><div class=\"wp-block-group\"><!-- wp:heading --><h2>Recent Comments<\/h2><!-- \/wp:heading --><!-- wp:latest-comments {\"displayAvatar\":false,\"displayDate\":false,\"displayExcerpt\":false} \/--><\/div><!-- \/wp:group -->"
+        },
+        "block-5": {
+            "content": "<!-- wp:group --><div class=\"wp-block-group\"><!-- wp:heading --><h2>Archives<\/h2><!-- \/wp:heading --><!-- wp:archives \/--><\/div><!-- \/wp:group -->"
+        },
+        "block-6": {
+            "content": "<!-- wp:group --><div class=\"wp-block-group\"><!-- wp:heading --><h2>Categories<\/h2><!-- \/wp:heading --><!-- wp:categories \/--><\/div><!-- \/wp:group -->"
+        }
+    },
+    "footer-1": {
+        "categories-5": {
+            "title": "Categories",
+            "count": 0,
+            "hierarchical": 0,
+            "dropdown": 0
+        }
+    },
+    "footer-2": [],
+    "footer-3": [],
+    "footer-4": {
+        "recent-posts-3": {
+            "title": "",
+            "number": 3,
+            "show_date": true
+        }
+    },
+    "footer-5": [],
+    "footer-6": []
+}
