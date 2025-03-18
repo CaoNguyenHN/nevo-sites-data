@@ -1,0 +1,103 @@
+{
+    "sidebar-1": {
+        "nevo_posts_list_featured_widget-2": {
+            "title": "Popular News",
+            "layout": "content-59",
+            "number": 5,
+            "all_categories": 0,
+            "category": [],
+            "show_cat": 1,
+            "show_date": 1,
+            "orderby": "post_date",
+            "image_width": "cv-w-120",
+            "image_size": "medium",
+            "separator1": 1
+        },
+        "nevo_advertisement_image-2": {
+            "title": "",
+            "image_link": "http:\/\/nevothemes.com",
+            "width": "",
+            "height": "",
+            "alt": "",
+            "image_url": "https:\/\/demo.nevothemes.com\/health\/wp-content\/uploads\/2025\/02\/ad_300x600.jpg",
+            "separator1": 1
+        }
+    },
+    "sidebar-2": {
+        "block-3": {
+            "content": "<!-- wp:group --><div class=\"wp-block-group\"><!-- wp:heading --><h2>Recent Posts<\/h2><!-- \/wp:heading --><!-- wp:latest-posts \/--><\/div><!-- \/wp:group -->"
+        },
+        "block-4": {
+            "content": "<!-- wp:group --><div class=\"wp-block-group\"><!-- wp:heading --><h2>Recent Comments<\/h2><!-- \/wp:heading --><!-- wp:latest-comments {\"displayAvatar\":false,\"displayDate\":false,\"displayExcerpt\":false} \/--><\/div><!-- \/wp:group -->"
+        },
+        "block-5": {
+            "content": "<!-- wp:group --><div class=\"wp-block-group\"><!-- wp:heading --><h2>Archives<\/h2><!-- \/wp:heading --><!-- wp:archives \/--><\/div><!-- \/wp:group -->"
+        },
+        "block-6": {
+            "content": "<!-- wp:group --><div class=\"wp-block-group\"><!-- wp:heading --><h2>Categories<\/h2><!-- \/wp:heading --><!-- wp:categories \/--><\/div><!-- \/wp:group -->"
+        },
+        "block-2": {
+            "content": "<!-- wp:search \/-->"
+        }
+    },
+    "footer-1": {
+        "text-3": {
+            "title": "",
+            "text": "<img class=\"alignnone size-full wp-image-18\" src=\"https:\/\/demo.nevothemes.com\/health\/wp-content\/uploads\/2025\/02\/footer_logo.png\" alt=\"\" width=\"205\" height=\"52\" \/>\r\n\r\nWe bring you the best Premium WordPress Themes that perfect for news, magazine, personal blog, etc. Check our\u00a0<a href=\"https:\/\/nevothemes.com\/\">landing page<\/a>\u00a0for details.",
+            "filter": true,
+            "visual": true
+        }
+    },
+    "footer-2": {
+        "nevo_posts_list_featured_widget-6": {
+            "title": "Recent News",
+            "layout": "content-52",
+            "number": 2,
+            "all_categories": 0,
+            "category": [],
+            "show_cat": 1,
+            "show_date": 1,
+            "orderby": "post_date",
+            "image_width": "cv-w-120",
+            "image_size": "thumbnail",
+            "separator1": 1
+        }
+    },
+    "footer-3": {
+        "tag_cloud-3": {
+            "title": "Tags",
+            "count": 0,
+            "taxonomy": "post_tag"
+        }
+    },
+    "footer-4": [],
+    "footer-5": [],
+    "footer-6": [],
+    "home-sidebar-1": {
+        "nevo_posts_list_featured_widget-4": {
+            "title": "Food & Nutrition",
+            "layout": "content-56",
+            "number": 2,
+            "all_categories": 0,
+            "category": [
+                "6"
+            ],
+            "show_cat": 1,
+            "show_date": 1,
+            "orderby": "post_date",
+            "image_width": "cv-w-120",
+            "image_size": "thumbnail",
+            "separator1": 1
+        },
+        "nevo_advertisement_image-4": {
+            "title": "",
+            "image_link": "https:\/\/nevothemes.com",
+            "width": "",
+            "height": "",
+            "alt": "",
+            "image_url": "https:\/\/demo.nevothemes.com\/health\/wp-content\/uploads\/2025\/02\/ad_345x345.jpg",
+            "separator1": 1
+        }
+    },
+    "home-sidebar-2": []
+}

@@ -1,0 +1,25 @@
+{
+    "show_on_front": "page",
+    "posts_per_page": "10",
+    "page_on_front": "[[post_id?post_type=page&slug=home]]",
+    "nevo_modules": {
+        "Nevo_Pro_Module_Header_Items": 1,
+        "Nevo_Pro_Module_Header_Transparent": 0,
+        "Nevo_Pro_Module_Header_Sticky": 0,
+        "Nevo_Pro_Module_Sidebar_Sticky": 1,
+        "Nevo_Pro_Module_Sidebar_Widget": 1,
+        "Nevo_Pro_Module_Blog_Pro": 1,
+        "Nevo_Pro_Module_Magazine": 1,
+        "Nevo_Pro_Module_PostViews": 0,
+        "Nevo_Pro_Module_Mega_Menu": 1,
+        "Nevo_Pro_Module_Footer_Items": 1,
+        "Nevo_Pro_Module_Custom_Blocks": 0,
+        "Nevo_Pro_Module_Custom_Author_Box": 0,
+        "Nevo_Pro_Module_Search_AutoComplete": 0,
+        "Nevo_Pro_Module_Custom_Comments": 0,
+        "Nevo_Pro_Module_Customfonts": 0,
+        "Nevo_Pro_Module_Tocbot_Mucluc": 0,
+        "Nevo_Pro_Module_Portfolio": 0
+    },
+    "nevo_widget_visibility": "on"
+}
