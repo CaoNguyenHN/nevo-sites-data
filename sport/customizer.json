@@ -1,0 +1,710 @@
+{
+    "nav_menu_locations": {
+        "primary": "[[term_id?taxonomy=nav_menu&slug=main-menu]]",
+        "mobile": "[[term_id?taxonomy=nav_menu&slug=main-menu]]",
+        "secondary": "[[term_id?taxonomy=nav_menu&slug=top-bar-menu]]"
+    },
+    "custom_css_post_id": 63,
+    "nevo_header_builder_controller_section": "{\"desktop\":{\"top\":{\"nc-col-0\":[{\"id\":\"secondary-menu\"}],\"nc-col-1\":[],\"nc-col-2\":[{\"id\":\"account\"}]},\"main\":{\"nc-col-0\":[{\"id\":\"primary-menu\"}],\"nc-col-1\":[],\"nc-col-2\":[{\"id\":\"search-icon\"}]},\"bottom\":{\"nc-col-0\":[{\"id\":\"title-tagline\"}],\"nc-col-1\":[],\"nc-col-2\":[{\"id\":\"html-1\"}]}},\"mobile\":{\"top\":{\"nc-col-0\":[],\"nc-col-1\":[],\"nc-col-2\":[]},\"main\":{\"nc-col-0\":[{\"id\":\"title-tagline\"}],\"nc-col-1\":[],\"nc-col-2\":[{\"id\":\"toggle-menu\"}]},\"bottom\":{\"nc-col-0\":[],\"nc-col-1\":[],\"nc-col-2\":[]}}}",
+    "nevo_footer_builder_controller_section": "{\"desktop\":{\"top\":{\"nc-col-0\":[],\"nc-col-1\":[],\"nc-col-2\":[]},\"main\":{\"nc-col-0\":[{\"id\":\"footer-1\"},{\"id\":\"footer-2\"}],\"nc-col-1\":[{\"id\":\"footer-3\"},{\"id\":\"footer-4\"}],\"nc-col-2\":[]},\"bottom\":{\"nc-col-0\":[{\"id\":\"footer-copyright\"}],\"nc-col-1\":[],\"nc-col-2\":[{\"id\":\"footer-social\"}]}}}",
+    "header_top_settings": {
+        "normal": {
+            "header_top_text_color": {
+                "desktop": "#ffffff",
+                "tablet": "",
+                "mobile": ""
+            },
+            "header_top_link_color": {
+                "desktop": "#ffffff",
+                "tablet": "",
+                "mobile": ""
+            },
+            "header_top_hover_link_color": {
+                "desktop": "#ffffff",
+                "tablet": "",
+                "mobile": ""
+            },
+            "header_top_bg_color": {
+                "desktop": "#308a2e",
+                "tablet": "",
+                "mobile": ""
+            },
+            "header_top_border_color": {
+                "desktop": "",
+                "tablet": "",
+                "mobile": ""
+            },
+            "header_top_border_bottom_size": {
+                "desktop": {
+                    "unit": "px",
+                    "value": ""
+                },
+                "tablet": {
+                    "unit": "px",
+                    "value": ""
+                },
+                "mobile": {
+                    "unit": "px",
+                    "value": ""
+                }
+            },
+            "header_top_padding": {
+                "desktop": {
+                    "unit": "px",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "link": "1"
+                },
+                "tablet": {
+                    "unit": "px",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "link": "1"
+                },
+                "mobile": {
+                    "unit": "px",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "link": "1"
+                }
+            }
+        }
+    },
+    "header_main_settings": {
+        "normal": {
+            "header_main_text_color": {
+                "desktop": "#ffffff",
+                "tablet": "",
+                "mobile": ""
+            },
+            "header_main_link_color": {
+                "desktop": "#ffffff",
+                "tablet": "",
+                "mobile": ""
+            },
+            "header_main_hover_link_color": {
+                "desktop": "#ffffff",
+                "tablet": "",
+                "mobile": ""
+            },
+            "header_main_bg_color": {
+                "desktop": "#31942e",
+                "tablet": "",
+                "mobile": ""
+            },
+            "header_main_border_color": {
+                "desktop": "",
+                "tablet": "",
+                "mobile": ""
+            },
+            "header_main_border_bottom_size": {
+                "desktop": {
+                    "unit": "px",
+                    "value": ""
+                },
+                "tablet": {
+                    "unit": "px",
+                    "value": ""
+                },
+                "mobile": {
+                    "unit": "px",
+                    "value": ""
+                }
+            },
+            "header_main_padding": {
+                "desktop": {
+                    "unit": "px",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "link": "1"
+                },
+                "tablet": {
+                    "unit": "px",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "link": "1"
+                },
+                "mobile": {
+                    "unit": "px",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "link": "1"
+                }
+            }
+        }
+    },
+    "header_main_desktop_height": {
+        "unit": "px",
+        "value": "50"
+    },
+    "header_bottom_desktop_height": {
+        "unit": "px",
+        "value": "120"
+    },
+    "custom_logo": "[[post_id?post_type=attachment&slug=logo]]",
+    "logo_max_width": {
+        "desktop": {
+            "unit": "px",
+            "value": "250"
+        },
+        "tablet": {
+            "unit": "px",
+            "value": ""
+        },
+        "mobile": {
+            "unit": "px",
+            "value": ""
+        }
+    },
+    "header_logo_name": "no",
+    "header_html_1": "<div class=\"cm-advertisement-content\"><a href=\"https:\/\/nevothemes.com\" aria-label=\"Read more about\" class=\"single_ad_728x90\" target=\"_blank\" rel=\"nofollow\"><img src=\"https:\/\/demo.nevothemes.com\/sport\/wp-content\/uploads\/2025\/02\/ad_728x90.png\" width=\"728\" height=\"90\" alt=\"\" loading=\"eager\"><\/a><\/div>",
+    "header_logo_retina": {
+        "id": "22",
+        "url": "https:\/\/demo.nevothemes.com\/sport\/wp-content\/uploads\/2025\/02\/logo@2x.png?t=1741488564649",
+        "mime": "image\/png"
+    },
+    "global_color_style": {
+        "normal": {
+            "primary": "#31942e",
+            "secondary": "#999395",
+            "success": "#198754",
+            "info": "#0dcaf0",
+            "warning": "#da5555",
+            "link": "#31942e",
+            "link_hover": "#308a2e",
+            "base": "#212529",
+            "title": "#222222",
+            "meta": "#4b4545",
+            "heading": "#222222"
+        },
+        "hover": []
+    },
+    "header_main_menu_highlight": "highlight-menu-border",
+    "header_main_menu_highlight_border_color": "#ffc600",
+    "header_main_menu_highlight_border_position": {
+        "unit": "px",
+        "value": "43"
+    },
+    "header_main_submenu_styling": {
+        "normal": {
+            "header_main_submenu_text_color": "#222222",
+            "header_main_submenu_link_color": "#222222",
+            "header_main_submenu_hover_link_color": "#222222",
+            "header_main_submenu_highlight_color": "",
+            "header_main_submenu_bg_color": ""
+        }
+    },
+    "header_main_menu_typography": {
+        "font": "",
+        "font_weight": "500",
+        "languages": [],
+        "font_size": {
+            "desktop": {
+                "unit": "px",
+                "value": ""
+            },
+            "tablet": {
+                "unit": "px",
+                "value": ""
+            },
+            "mobile": {
+                "unit": "px",
+                "value": ""
+            }
+        },
+        "line_height": {
+            "desktop": {
+                "unit": "px",
+                "value": ""
+            },
+            "tablet": {
+                "unit": "px",
+                "value": ""
+            },
+            "mobile": {
+                "unit": "px",
+                "value": ""
+            }
+        },
+        "letter_spacing": {
+            "unit": "px",
+            "value": ""
+        },
+        "style": "",
+        "text_decoration": "",
+        "text_transform": "uppercase",
+        "variant": [],
+        "font_type": "normal"
+    },
+    "post_archive_disable_cat": 1,
+    "post_archive_hero_layout": "hero-type-9",
+    "site_background": {
+        "normal": {
+            "bg_color": "#f7f8f9"
+        },
+        "hover": []
+    },
+    "site_layout": "nevo-container",
+    "site_box_shadow": "no-box-shadow",
+    "content_layout": "one-container",
+    "outsite_background": {
+        "normal": {
+            "bg_color": "#f9f9f9",
+            "bg_image": {
+                "id": "86",
+                "url": "https:\/\/demo.nevothemes.com\/sport\/wp-content\/uploads\/2025\/03\/sport_bg.jpg?t=1741489489028",
+                "mime": "image\/jpeg"
+            },
+            "bg_cover": "cover",
+            "bg_position": "center",
+            "bg_repeat": "no-repeat",
+            "bg_attachment": "fixed"
+        },
+        "hover": []
+    },
+    "page_header_overlay_color": "#ededed",
+    "page_header_style": {
+        "normal": {
+            "text_color": "#222222",
+            "link_color": "#222222",
+            "paddinga": {
+                "desktop": {
+                    "unit": "px",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "link": "1"
+                },
+                "tablet": {
+                    "unit": "px",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "link": "1"
+                },
+                "mobile": {
+                    "unit": "px",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "link": "1"
+                }
+            },
+            "bg_image": {
+                "id": "",
+                "url": "",
+                "mime": ""
+            },
+            "bg_cover": "",
+            "bg_position": "",
+            "bg_repeat": "repeat",
+            "bg_attachment": "",
+            "border_style": "",
+            "border_width": {
+                "unit": "px",
+                "top": "",
+                "right": "",
+                "bottom": "",
+                "left": "",
+                "link": "1"
+            },
+            "border_color": "",
+            "border_radius": {
+                "unit": "px",
+                "top": "",
+                "right": "",
+                "bottom": "",
+                "left": "",
+                "link": "1"
+            }
+        },
+        "hover": {
+            "link_color": ""
+        }
+    },
+    "post_archive_layout": "content-3",
+    "post_related_col": {
+        "desktop": "2",
+        "tablet": "2",
+        "mobile": "1"
+    },
+    "post_related_number": "4",
+    "post_related_img_pos": "alignleft",
+    "post_archive_hero_spacing": {
+        "unit": "px",
+        "value": "5"
+    },
+    "blog_posts_enables_frontpage": 1,
+    "blog_posts_hero_layout": "hero-type-7",
+    "newsone_layout": "disable",
+    "newstwo_layout": "content-50",
+    "newstwo_title": "Featured",
+    "newstwo_tabs_or_link": "title",
+    "newstwo_settings": {
+        "query": {
+            "categories_by": "cat",
+            "by_category": [
+                "football",
+                "tennis"
+            ],
+            "by_id": "",
+            "by_tag": "",
+            "by_author": [],
+            "exclude_id": "",
+            "offset": "",
+            "order_by": "title",
+            "sort_order": "DESC"
+        },
+        "output": {
+            "display_cat": "true",
+            "display_avatar": "false",
+            "display_author": "true",
+            "display_date": "true",
+            "display_comment": "true",
+            "display_views": "false"
+        }
+    },
+    "newsthree_layout": "content-25",
+    "newsthree_settings": {
+        "query": {
+            "categories_by": "cat",
+            "by_category": [
+                "basketball"
+            ],
+            "by_id": "",
+            "by_tag": "",
+            "by_author": [],
+            "exclude_id": "",
+            "offset": "",
+            "order_by": "title",
+            "sort_order": "DESC"
+        },
+        "output": {
+            "display_cat": "true",
+            "display_avatar": "false",
+            "display_author": "true",
+            "display_date": "true",
+            "display_comment": "true",
+            "display_views": "false"
+        }
+    },
+    "newsthree_number": "3",
+    "newsthree_excerpt_type": "custom",
+    "newsthree_title": "Basketball",
+    "newsthree_row_gap": {
+        "unit": "px",
+        "value": "20"
+    },
+    "newsthree_column_gap": {
+        "unit": "px",
+        "value": "8"
+    },
+    "newsfour_layout": "content-10",
+    "newsfour_number": "3",
+    "newsfour_settings": {
+        "query": {
+            "categories_by": "cat",
+            "by_category": [
+                "cycling",
+                "f1",
+                "motogp"
+            ],
+            "by_id": "",
+            "by_tag": "",
+            "by_author": [],
+            "exclude_id": "",
+            "offset": "",
+            "order_by": "title",
+            "sort_order": "DESC"
+        },
+        "output": {
+            "display_cat": "true",
+            "display_avatar": "false",
+            "display_author": "true",
+            "display_date": "true",
+            "display_comment": "true",
+            "display_views": "false"
+        }
+    },
+    "newsfour_title": "Auto Sports",
+    "newseight_layout": "content-39",
+    "newseight_title": "Latest Post",
+    "newseight_number": "6",
+    "sticky_sidebar_enable": 1,
+    "content_heading_title": {
+        "general": {
+            "text_color": "",
+            "padding": {
+                "unit": "px",
+                "top": "",
+                "right": "",
+                "bottom": "6",
+                "left": "",
+                "link": ""
+            },
+            "margin": {
+                "unit": "px",
+                "top": "",
+                "right": "",
+                "bottom": "",
+                "left": "",
+                "link": "1"
+            },
+            "bg_color": "",
+            "bg_image": {
+                "id": "",
+                "url": "",
+                "mime": ""
+            },
+            "bg_cover": "",
+            "bg_position": "",
+            "bg_repeat": "repeat",
+            "bg_attachment": "",
+            "border_style": "solid",
+            "border_width": {
+                "unit": "px",
+                "top": "0",
+                "right": "0",
+                "bottom": "2",
+                "left": "0",
+                "link": ""
+            },
+            "border_color": "#31942e",
+            "border_radius": {
+                "unit": "px",
+                "top": "",
+                "right": "",
+                "bottom": "",
+                "left": "",
+                "link": "1"
+            }
+        }
+    },
+    "footer_bottom_styling": {
+        "normal": {
+            "text_color": "#ffffff",
+            "link_color": "#ffffff",
+            "bg_color": "#31942e",
+            "bg_image": {
+                "id": "",
+                "url": "",
+                "mime": ""
+            },
+            "bg_cover": "",
+            "bg_position": "",
+            "bg_repeat": "repeat",
+            "bg_attachment": "",
+            "border_style": "",
+            "border_width": {
+                "unit": "px",
+                "top": "",
+                "right": "",
+                "bottom": "",
+                "left": "",
+                "link": "1"
+            },
+            "border_color": "",
+            "border_radius": {
+                "unit": "px",
+                "top": "",
+                "right": "",
+                "bottom": "",
+                "left": "",
+                "link": "1"
+            }
+        },
+        "hover": {
+            "link_color": "#ffffff",
+            "border_width": {
+                "unit": "px",
+                "top": "",
+                "right": "",
+                "bottom": "",
+                "left": "",
+                "link": "1"
+            },
+            "border_color": ""
+        }
+    },
+    "footer_social_custom_color": {
+        "default": {
+            "secondary": "#ffffff",
+            "primary": "#31942e"
+        },
+        "hover": {
+            "secondary": "",
+            "primary": ""
+        }
+    },
+    "footer_middle_padding": {
+        "desktop": {
+            "unit": "px",
+            "top": "60",
+            "right": "",
+            "bottom": "60",
+            "left": "",
+            "link": 1
+        },
+        "tablet": {
+            "unit": "px",
+            "top": "",
+            "right": "",
+            "bottom": "",
+            "left": "",
+            "link": 1
+        },
+        "mobile": {
+            "unit": "px",
+            "top": "",
+            "right": "",
+            "bottom": "",
+            "left": "",
+            "link": 1
+        }
+    },
+    "footer_middle_styling": {
+        "normal": {
+            "text_color": "#ffffff",
+            "link_color": "#ffffff",
+            "bg_color": "#09282c",
+            "bg_image": {
+                "id": "",
+                "url": "",
+                "mime": ""
+            },
+            "bg_cover": "",
+            "bg_position": "",
+            "bg_repeat": "repeat",
+            "bg_attachment": "",
+            "border_style": "",
+            "border_width": {
+                "unit": "px",
+                "top": "",
+                "right": "",
+                "bottom": "",
+                "left": "",
+                "link": "1"
+            },
+            "border_color": "",
+            "border_radius": {
+                "unit": "px",
+                "top": "",
+                "right": "",
+                "bottom": "",
+                "left": "",
+                "link": "1"
+            }
+        },
+        "hover": {
+            "link_color": "#ffffff",
+            "border_width": {
+                "unit": "px",
+                "top": "",
+                "right": "",
+                "bottom": "",
+                "left": "",
+                "link": "1"
+            },
+            "border_color": ""
+        }
+    },
+    "footer_middle_widgets_title": {
+        "normal": {
+            "text_color": "#ffffff",
+            "padding": {
+                "desktop": {
+                    "unit": "px",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "link": "1"
+                },
+                "tablet": {
+                    "unit": "px",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "link": "1"
+                },
+                "mobile": {
+                    "unit": "px",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "link": "1"
+                }
+            },
+            "bg_color": "",
+            "bg_image": {
+                "id": "",
+                "url": "",
+                "mime": ""
+            },
+            "bg_cover": "",
+            "bg_position": "",
+            "bg_repeat": "repeat",
+            "bg_attachment": "",
+            "border_style": "",
+            "border_width": {
+                "unit": "px",
+                "top": "",
+                "right": "",
+                "bottom": "",
+                "left": "",
+                "link": "1"
+            },
+            "border_color": "",
+            "border_radius": {
+                "unit": "px",
+                "top": "",
+                "right": "",
+                "bottom": "",
+                "left": "",
+                "link": "1"
+            }
+        },
+        "hover": []
+    },
+    "blog_posts_hero_settings": {
+        "query": {
+            "categories_by": "cat",
+            "by_category": [],
+            "by_id": "",
+            "by_tag": "",
+            "by_author": [],
+            "exclude_id": "",
+            "offset": "",
+            "order_by": "rand",
+            "sort_order": "DESC"
+        },
+        "output": {
+            "zoom_hover": "nevo-image-zoom",
+            "thumbnail_size": "default",
+            "display_cat": "true",
+            "display_avatar": "false",
+            "display_author": "true",
+            "display_date": "true",
+            "display_comment": "true",
+            "display_views": "false"
+        }
+    },
+    "custom_css": ".nevo-nav-menu > li {\n    height: 100%;\n    align-items: center;\n    display: inline-flex;\n}\n.home .one-container .site-content {\n    padding: 0px 30px;\n}\n.video-play-icon {\n\tposition: absolute;\n\ttop: 50%;\n\tleft: 50%;\n\ttransform: translate(-50%, -50%);\n\tbackground: rgba(0, 0, 0, 0.5);\n\tborder-radius: 50%;\n\tdisplay: flex;\n\talign-items: center;\n\tjustify-content: center;\n}\n\n.video-play-icon svg {\n\twidth: 35px;\n\theight: 35px;\n\tfill: white;\n}\n.nevo-cat.cat-links a:nth-child(n+3),\n.post-list-wrap .cat-links a:nth-child(n+3),\n.related-posts .nevo-cat-single.cat-links a:nth-child(n+3) {\n    display: none; \/* \u1ea8n c\u00e1c th\u1ebb t\u1eeb th\u1ee9 hai tr\u1edf \u0111i *\/\n}\n.nevo-cat.cat-links a:first-of-type,\n.post-list-wrap .cat-links a:first-of-type,\n.related-posts .nevo-cat-single.cat-links a:first-of-type {\n    display: inline; \/* display: block; Hi\u1ec3n th\u1ecb th\u1ebb \u0111\u1ea7u ti\u00ean d\u1ea1ng block *\/\n}\n.related-posts .cat-links a, footer.entry-meta .tags-links a, .nevo-cat a, .site .sidebar .cat-links a {\n\tcolor:#000000!important;\n\tbackground-color:#ffc600;\n}"
+}
