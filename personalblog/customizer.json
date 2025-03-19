@@ -4,6 +4,7 @@
         "mobile": "[[term_id?taxonomy=nav_menu&slug=main-menu]]",
         "footer": "[[term_id?taxonomy=nav_menu&slug=footer-menu]]"
     },
+    "custom_css_post_id": 103,
     "nevo_header_builder_controller_section": "{\"desktop\":{\"top\":{\"nc-col-0\":[{\"id\":\"date-format\"}],\"nc-col-1\":[],\"nc-col-2\":[{\"id\":\"social-icons\"}]},\"main\":{\"nc-col-0\":[{\"id\":\"title-tagline\"}],\"nc-col-1\":[],\"nc-col-2\":[{\"id\":\"html-2\"}]},\"bottom\":{\"nc-col-0\":[{\"id\":\"primary-menu\"}],\"nc-col-1\":[],\"nc-col-2\":[{\"id\":\"search-icon\"},{\"id\":\"account\"}]}},\"mobile\":{\"top\":{\"nc-col-0\":[],\"nc-col-1\":[{\"id\":\"date-format\"}],\"nc-col-2\":[]},\"main\":{\"nc-col-0\":[{\"id\":\"title-tagline\"}],\"nc-col-1\":[],\"nc-col-2\":[{\"id\":\"search-icon\"},{\"id\":\"toggle-menu\"}]},\"bottom\":{\"nc-col-0\":[],\"nc-col-1\":[],\"nc-col-2\":[]}}}",
     "nevo_footer_builder_controller_section": "{\"desktop\":{\"top\":{\"nc-col-0\":[],\"nc-col-1\":[],\"nc-col-2\":[]},\"main\":{\"nc-col-0\":[{\"id\":\"footer-1\"}],\"nc-col-1\":[{\"id\":\"footer-2\"}],\"nc-col-2\":[{\"id\":\"footer-3\"}]},\"bottom\":{\"nc-col-0\":[{\"id\":\"footer-copyright\"}],\"nc-col-1\":[],\"nc-col-2\":[{\"id\":\"footer-menu\"}]}}}",
     "custom_logo": "[[post_id?post_type=attachment&slug=logo-2]]",
@@ -416,5 +417,6 @@
         },
         "hover": []
     },
-    "scrolltop_show": 1
+    "scrolltop_show": 1,
+    "custom_css": ".nevo-navigation> ul> li> a> span.nevo-item-title {\n    text-transform: uppercase;\n    font-weight: 500;\n}\nbody #page {\n    overflow: visible;\n}\n\n.inside-right-sidebar.inside-sidebar {\n    position: sticky;\n    top: 0;\n}\n.nevo-cat.cat-links a:nth-child(n+3),\n.post-list-wrap .cat-links a:nth-child(n+3),\n.related-posts .nevo-cat-single.cat-links a:nth-child(n+3) {\n    display: none; \/* \u1ea8n c\u00e1c th\u1ebb t\u1eeb th\u1ee9 hai tr\u1edf \u0111i *\/\n}\n.nevo-cat.cat-links a:first-of-type,\n.post-list-wrap .cat-links a:first-of-type,\n.related-posts .nevo-cat-single.cat-links a:first-of-type {\n    display: inline; \/* display: block; Hi\u1ec3n th\u1ecb th\u1ebb \u0111\u1ea7u ti\u00ean d\u1ea1ng block *\/\n}"
 }
