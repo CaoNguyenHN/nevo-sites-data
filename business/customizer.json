@@ -3,6 +3,7 @@
         "primary": "[[term_id?taxonomy=nav_menu&slug=main]]",
         "mobile": "[[term_id?taxonomy=nav_menu&slug=main]]"
     },
+    "custom_css_post_id": 107,
     "nevo_header_builder_controller_section": "{\"desktop\":{\"top\":{\"nc-col-0\":[],\"nc-col-1\":[],\"nc-col-2\":[]},\"main\":{\"nc-col-0\":[{\"id\":\"title-tagline\"},{\"id\":\"search-box\"}],\"nc-col-1\":[],\"nc-col-2\":[{\"id\":\"account\"}]},\"bottom\":{\"nc-col-0\":[{\"id\":\"primary-menu\"}],\"nc-col-1\":[],\"nc-col-2\":[{\"id\":\"social-icons\"}]}},\"mobile\":{\"top\":{\"nc-col-0\":[],\"nc-col-1\":[],\"nc-col-2\":[]},\"main\":{\"nc-col-0\":[{\"id\":\"title-tagline\"}],\"nc-col-1\":[],\"nc-col-2\":[{\"id\":\"toggle-menu\"}]},\"bottom\":{\"nc-col-0\":[],\"nc-col-1\":[],\"nc-col-2\":[]}}}",
     "nevo_footer_builder_controller_section": "{\"desktop\":{\"top\":{\"nc-col-0\":[],\"nc-col-1\":[],\"nc-col-2\":[]},\"main\":{\"nc-col-0\":[{\"id\":\"footer-1\"}],\"nc-col-1\":[{\"id\":\"footer-2\"}],\"nc-col-2\":[{\"id\":\"footer-3\"}]},\"bottom\":{\"nc-col-0\":[{\"id\":\"footer-copyright\"}],\"nc-col-1\":[],\"nc-col-2\":[{\"id\":\"footer-social\"}]}}}",
     "custom_logo": "[[post_id?post_type=attachment&slug=logo]]",
@@ -813,5 +814,6 @@
             "header_bottom_submenu_bg_color": ""
         }
     },
-    "post_related_number": "6"
+    "post_related_number": "6",
+    "custom_css": ".related-posts .cat-links a, footer.entry-meta .tags-links a, .nevo-cat a, .site .sidebar .cat-links a {\n\tcolor:#00214f !important;\n}\n.video-play-icon {\n\tposition: absolute;\n\ttop: 50%;\n\tleft: 50%;\n\ttransform: translate(-50%, -50%);\n\tbackground: rgba(0, 0, 0, 0.5);\n\tborder-radius: 50%;\n\tdisplay: flex;\n\talign-items: center;\n\tjustify-content: center;\n}\n\n.video-play-icon svg {\n\twidth: 35px;\n\theight: 35px;\n\tfill: white;\n}\n.nevo-cat.cat-links a:nth-child(n+3),\n.post-list-wrap .cat-links a:nth-child(n+3),\n.related-posts .nevo-cat-single.cat-links a:nth-child(n+3) {\n    display: none; \/* \u1ea8n c\u00e1c th\u1ebb t\u1eeb th\u1ee9 hai tr\u1edf \u0111i *\/\n}\n.nevo-cat.cat-links a:first-of-type,\n.post-list-wrap .cat-links a:first-of-type,\n.related-posts .nevo-cat-single.cat-links a:first-of-type {\n    display: inline; \/* display: block; Hi\u1ec3n th\u1ecb th\u1ebb \u0111\u1ea7u ti\u00ean d\u1ea1ng block *\/\n}"
 }
