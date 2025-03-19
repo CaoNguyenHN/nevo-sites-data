@@ -1,0 +1,640 @@
+{
+    "nav_menu_locations": {
+        "primary": "[[term_id?taxonomy=nav_menu&slug=main-menu]]",
+        "mobile": "[[term_id?taxonomy=nav_menu&slug=main-menu]]"
+    },
+    "custom_css_post_id": 100,
+    "nevo_header_builder_controller_section": "{\"desktop\":{\"top\":{\"nc-col-0\":[],\"nc-col-1\":[],\"nc-col-2\":[]},\"main\":{\"nc-col-0\":[{\"id\":\"button\"}],\"nc-col-1\":[{\"id\":\"title-tagline\"}],\"nc-col-2\":[{\"id\":\"social-icons\"}]},\"bottom\":{\"nc-col-0\":[{\"id\":\"primary-menu\"}],\"nc-col-1\":[],\"nc-col-2\":[{\"id\":\"search-icon\"},{\"id\":\"account\"}]}},\"mobile\":{\"top\":{\"nc-col-0\":[],\"nc-col-1\":[],\"nc-col-2\":[]},\"main\":{\"nc-col-0\":[{\"id\":\"title-tagline\"}],\"nc-col-1\":[],\"nc-col-2\":[{\"id\":\"toggle-menu\"}]},\"bottom\":{\"nc-col-0\":[],\"nc-col-1\":[],\"nc-col-2\":[]}}}",
+    "nevo_footer_builder_controller_section": "{\"desktop\":{\"top\":{\"nc-col-0\":[],\"nc-col-1\":[],\"nc-col-2\":[]},\"main\":{\"nc-col-0\":[{\"id\":\"footer-1\"}],\"nc-col-1\":[{\"id\":\"footer-2\"}],\"nc-col-2\":[{\"id\":\"footer-3\"}]},\"bottom\":{\"nc-col-0\":[],\"nc-col-1\":[{\"id\":\"footer-copyright\"}],\"nc-col-2\":[]}}}",
+    "site_background": {
+        "normal": {
+            "bg_color": "",
+            "bg_image": {
+                "id": "",
+                "url": "",
+                "mime": ""
+            },
+            "bg_cover": "cover",
+            "bg_position": "center",
+            "bg_repeat": "no-repeat",
+            "bg_attachment": "fixed"
+        },
+        "hover": []
+    },
+    "site_layout": "nevo-container",
+    "content_layout": "one-container",
+    "outsite_background": {
+        "normal": {
+            "bg_color": "#f7f8f9",
+            "bg_image": {
+                "id": "16",
+                "url": "https:\/\/demo.nevothemes.com\/motorcycle\/wp-content\/uploads\/2025\/02\/moto_bg.jpg?t=1741370535856",
+                "mime": "image\/jpeg"
+            },
+            "bg_cover": "cover",
+            "bg_position": "center",
+            "bg_repeat": "no-repeat",
+            "bg_attachment": "fixed"
+        },
+        "hover": []
+    },
+    "site_box_shadow": "no-box-shadow",
+    "post_archive_disable_cat": 1,
+    "page_header_style": {
+        "normal": {
+            "text_color": "#ffffff",
+            "link_color": "#ffffff",
+            "paddinga": {
+                "desktop": {
+                    "unit": "px",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "link": "1"
+                },
+                "tablet": {
+                    "unit": "px",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "link": "1"
+                },
+                "mobile": {
+                    "unit": "px",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "link": "1"
+                }
+            },
+            "bg_image": {
+                "id": "14",
+                "url": "https:\/\/demo.nevothemes.com\/motorcycle\/wp-content\/uploads\/2025\/02\/moto8.jpg?t=1741371281999",
+                "mime": "image\/jpeg"
+            },
+            "bg_cover": "",
+            "bg_position": "",
+            "bg_repeat": "repeat",
+            "bg_attachment": "",
+            "border_style": "",
+            "border_width": {
+                "unit": "px",
+                "top": "",
+                "right": "",
+                "bottom": "",
+                "left": "",
+                "link": "1"
+            },
+            "border_color": "",
+            "border_radius": {
+                "unit": "px",
+                "top": "",
+                "right": "",
+                "bottom": "",
+                "left": "",
+                "link": "1"
+            }
+        },
+        "hover": {
+            "link_color": ""
+        }
+    },
+    "post_single_layout": "single-post-4",
+    "post_single_page_header_style": {
+        "normal": {
+            "post_single_text_color": "#ffffff",
+            "post_single_link_color": "#ffffff",
+            "post_single_hover_link_color": "#ffffff",
+            "post_single_bg_overlay_color": "",
+            "post_single_bg_cover": "cover",
+            "post_single_bg_position": "center",
+            "post_single_bg_repeat": "no-repeat",
+            "post_single_bg_attachment": "fixed"
+        }
+    },
+    "custom_logo": "[[post_id?post_type=attachment&slug=logo-1]]",
+    "logo_max_width": {
+        "desktop": {
+            "unit": "px",
+            "value": "300"
+        },
+        "tablet": {
+            "unit": "px",
+            "value": "200"
+        },
+        "mobile": {
+            "unit": "px",
+            "value": "150"
+        }
+    },
+    "header_logo_name": "no",
+    "header_bottom_settings": {
+        "normal": {
+            "header_bottom_text_color": {
+                "desktop": "#ffffff",
+                "tablet": "",
+                "mobile": ""
+            },
+            "header_bottom_link_color": {
+                "desktop": "#ffffff",
+                "tablet": "",
+                "mobile": ""
+            },
+            "header_bottom_hover_link_color": {
+                "desktop": "#ffffff",
+                "tablet": "",
+                "mobile": ""
+            },
+            "header_bottom_bg_color": {
+                "desktop": "#cc2e2e",
+                "tablet": "",
+                "mobile": ""
+            },
+            "header_bottom_border_color": {
+                "desktop": "",
+                "tablet": "",
+                "mobile": ""
+            },
+            "header_bottom_border_bottom_size": {
+                "desktop": {
+                    "unit": "px",
+                    "value": ""
+                },
+                "tablet": {
+                    "unit": "px",
+                    "value": ""
+                },
+                "mobile": {
+                    "unit": "px",
+                    "value": ""
+                }
+            },
+            "header_bottom_padding": {
+                "desktop": {
+                    "unit": "px",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "link": "1"
+                },
+                "tablet": {
+                    "unit": "px",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "link": "1"
+                },
+                "mobile": {
+                    "unit": "px",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "link": "1"
+                }
+            }
+        }
+    },
+    "header_button_text": " Subscribe ",
+    "header_button_icon": {
+        "type": "bootstrap-icons",
+        "icon": "bi-envelope"
+    },
+    "header_button_position": "before",
+    "global_color_style": {
+        "normal": {
+            "primary": "#cc2e2e",
+            "secondary": "#999395",
+            "success": "#198754",
+            "info": "#0dcaf0",
+            "warning": "#da5555",
+            "link": "#0d6efd",
+            "link_hover": "#0a58ca",
+            "base": "#212529",
+            "title": "#222222",
+            "meta": "#4b4545",
+            "heading": "#222222"
+        },
+        "hover": []
+    },
+    "header_bottom_menu_typography": {
+        "font": "",
+        "font_weight": "500",
+        "languages": [],
+        "font_size": {
+            "desktop": {
+                "unit": "px",
+                "value": ""
+            },
+            "tablet": {
+                "unit": "px",
+                "value": ""
+            },
+            "mobile": {
+                "unit": "px",
+                "value": ""
+            }
+        },
+        "line_height": {
+            "desktop": {
+                "unit": "px",
+                "value": ""
+            },
+            "tablet": {
+                "unit": "px",
+                "value": ""
+            },
+            "mobile": {
+                "unit": "px",
+                "value": ""
+            }
+        },
+        "letter_spacing": {
+            "unit": "px",
+            "value": ""
+        },
+        "style": "",
+        "text_decoration": "",
+        "text_transform": "uppercase",
+        "variant": [],
+        "font_type": "normal"
+    },
+    "header_main_desktop_height": {
+        "unit": "px",
+        "value": "150"
+    },
+    "header_logo_retina": {
+        "id": "18",
+        "url": "https:\/\/demo.nevothemes.com\/motorcycle\/wp-content\/uploads\/2025\/02\/logo-2.png?t=1741372815440",
+        "mime": "image\/png"
+    },
+    "post_archive_layout": "content-3",
+    "newsone_layout": "content-60",
+    "newsone_tabs_or_link": "title",
+    "newsone_row_gap": {
+        "unit": "px",
+        "value": "20"
+    },
+    "newsone_column_gap": {
+        "unit": "px",
+        "value": "10"
+    },
+    "newstwo_layout": "content-50",
+    "newstwo_number": "6",
+    "newstwo_settings": {
+        "query": {
+            "categories_by": "cat",
+            "by_category": [
+                "cruiser",
+                "retro",
+                "sport",
+                "touring"
+            ],
+            "by_id": "",
+            "by_tag": "",
+            "by_author": [],
+            "exclude_id": "",
+            "offset": "",
+            "order_by": "title",
+            "sort_order": "DESC"
+        },
+        "output": {
+            "display_cat": "true",
+            "display_avatar": "false",
+            "display_author": "true",
+            "display_date": "true",
+            "display_comment": "true",
+            "display_views": "false"
+        }
+    },
+    "newstwo_title": "Type",
+    "newsthree_layout": "content-25",
+    "newsthree_title": "Featured",
+    "newsthree_settings": {
+        "query": {
+            "categories_by": "cat",
+            "by_category": [
+                "honda",
+                "kawasaki",
+                "suzuki",
+                "yamaha"
+            ],
+            "by_id": "",
+            "by_tag": "",
+            "by_author": [],
+            "exclude_id": "",
+            "offset": "",
+            "order_by": "title",
+            "sort_order": "DESC"
+        },
+        "output": {
+            "display_cat": "true",
+            "display_avatar": "false",
+            "display_author": "true",
+            "display_date": "true",
+            "display_comment": "true",
+            "display_views": "false"
+        }
+    },
+    "newsthree_images_ratio": "aspect-ratio:3\/2;",
+    "newsthree_excerpt_type": "custom",
+    "newsfour_layout": "content-3",
+    "newseight_layout": "disable",
+    "newseight_row_gap": {
+        "unit": "px",
+        "value": "20"
+    },
+    "newseight_column_gap": {
+        "unit": "px",
+        "value": "10"
+    },
+    "newseight_number": "4",
+    "newseight_title": "Latest Post",
+    "newseight_excerpt_type": "custom",
+    "newsfour_title": "Latest Post",
+    "newsfour_images_ratio": "aspect-ratio:3\/2;",
+    "sticky_sidebar_enable": 1,
+    "newsone_settings": {
+        "query": {
+            "categories_by": "cat",
+            "by_category": [
+                "bmw",
+                "ducati",
+                "harley-davidson",
+                "triumph"
+            ],
+            "by_id": "",
+            "by_tag": "",
+            "by_author": [],
+            "exclude_id": "",
+            "offset": "",
+            "order_by": "title",
+            "sort_order": "DESC"
+        },
+        "output": {
+            "display_cat": "true",
+            "display_avatar": "false",
+            "display_author": "true",
+            "display_date": "true",
+            "display_comment": "true",
+            "display_views": "false"
+        }
+    },
+    "content_heading_title": {
+        "general": {
+            "text_color": "#ffffff",
+            "padding": {
+                "unit": "px",
+                "top": "5",
+                "right": "16",
+                "bottom": "5",
+                "left": "16",
+                "link": ""
+            },
+            "margin": {
+                "unit": "px",
+                "top": "",
+                "right": "",
+                "bottom": "",
+                "left": "",
+                "link": "1"
+            },
+            "bg_color": "#db3232",
+            "bg_image": {
+                "id": "",
+                "url": "",
+                "mime": ""
+            },
+            "bg_cover": "",
+            "bg_position": "",
+            "bg_repeat": "repeat",
+            "bg_attachment": "",
+            "border_style": "solid",
+            "border_width": {
+                "unit": "px",
+                "top": "0",
+                "right": "0",
+                "bottom": "1",
+                "left": "0",
+                "link": ""
+            },
+            "border_color": "#db3232",
+            "border_radius": {
+                "unit": "px",
+                "top": "2",
+                "right": "2",
+                "bottom": "0",
+                "left": "0",
+                "link": ""
+            }
+        }
+    },
+    "footer_middle_styling": {
+        "normal": {
+            "text_color": "#ffffff",
+            "link_color": "#ffffff",
+            "bg_color": "#232323",
+            "bg_image": {
+                "id": "",
+                "url": "",
+                "mime": ""
+            },
+            "bg_cover": "",
+            "bg_position": "",
+            "bg_repeat": "repeat",
+            "bg_attachment": "",
+            "border_style": "solid",
+            "border_width": {
+                "unit": "px",
+                "top": "0",
+                "right": "0",
+                "bottom": "1",
+                "left": "0",
+                "link": ""
+            },
+            "border_color": "#777777",
+            "border_radius": {
+                "unit": "px",
+                "top": "",
+                "right": "",
+                "bottom": "",
+                "left": "",
+                "link": "1"
+            }
+        },
+        "hover": {
+            "link_color": "",
+            "border_width": {
+                "unit": "px",
+                "top": "",
+                "right": "",
+                "bottom": "",
+                "left": "",
+                "link": "1"
+            },
+            "border_color": ""
+        }
+    },
+    "footer_middle_widgets_title": {
+        "normal": {
+            "text_color": "#ffffff",
+            "padding": {
+                "desktop": {
+                    "unit": "px",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "link": "1"
+                },
+                "tablet": {
+                    "unit": "px",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "link": "1"
+                },
+                "mobile": {
+                    "unit": "px",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "link": "1"
+                }
+            },
+            "bg_color": "",
+            "bg_image": {
+                "id": "",
+                "url": "",
+                "mime": ""
+            },
+            "bg_cover": "",
+            "bg_position": "",
+            "bg_repeat": "repeat",
+            "bg_attachment": "",
+            "border_style": "",
+            "border_width": {
+                "unit": "px",
+                "top": "",
+                "right": "",
+                "bottom": "",
+                "left": "",
+                "link": "1"
+            },
+            "border_color": "",
+            "border_radius": {
+                "unit": "px",
+                "top": "",
+                "right": "",
+                "bottom": "",
+                "left": "",
+                "link": "1"
+            }
+        },
+        "hover": []
+    },
+    "footer_bottom_styling": {
+        "normal": {
+            "text_color": "#ffffff",
+            "link_color": "#ffffff",
+            "bg_color": "#232323",
+            "bg_image": {
+                "id": "",
+                "url": "",
+                "mime": ""
+            },
+            "bg_cover": "",
+            "bg_position": "",
+            "bg_repeat": "repeat",
+            "bg_attachment": "",
+            "border_style": "",
+            "border_width": {
+                "unit": "px",
+                "top": "",
+                "right": "",
+                "bottom": "",
+                "left": "",
+                "link": "1"
+            },
+            "border_color": "",
+            "border_radius": {
+                "unit": "px",
+                "top": "",
+                "right": "",
+                "bottom": "",
+                "left": "",
+                "link": "1"
+            }
+        },
+        "hover": {
+            "link_color": "#ffffff",
+            "border_width": {
+                "unit": "px",
+                "top": "",
+                "right": "",
+                "bottom": "",
+                "left": "",
+                "link": "1"
+            },
+            "border_color": ""
+        }
+    },
+    "newstwo_row_gap": {
+        "unit": "px",
+        "value": "20"
+    },
+    "newstwo_column_gap": {
+        "unit": "px",
+        "value": "10"
+    },
+    "newsthree_row_gap": {
+        "unit": "px",
+        "value": "20"
+    },
+    "newsthree_column_gap": {
+        "unit": "px",
+        "value": "10"
+    },
+    "newsfour_row_gap": {
+        "unit": "px",
+        "value": "20"
+    },
+    "newsfour_column_gap": {
+        "unit": "px",
+        "value": "10"
+    },
+    "footer_middle_padding": {
+        "desktop": {
+            "unit": "px",
+            "top": "50",
+            "right": "",
+            "bottom": "50",
+            "left": "",
+            "link": 1
+        },
+        "tablet": {
+            "unit": "px",
+            "top": "",
+            "right": "",
+            "bottom": "",
+            "left": "",
+            "link": 1
+        },
+        "mobile": {
+            "unit": "px",
+            "top": "",
+            "right": "",
+            "bottom": "",
+            "left": "",
+            "link": 1
+        }
+    },
+    "custom_css": "body .site-header {\n    background-color: transparent;\n}\n.nevo-nav-menu > li {\n    height: 100%;\n    align-items: center;\n    display: inline-flex;\n}\n.nevo-cat.cat-links a:nth-child(n+3),\n.post-list-wrap .cat-links a:nth-child(n+3),\n.related-posts .nevo-cat-single.cat-links a:nth-child(n+3) {\n    display: none;\n}\n.nevo-cat.cat-links a:first-of-type,\n.post-list-wrap .cat-links a:first-of-type,\n.related-posts .nevo-cat-single.cat-links a:first-of-type {\n    display: inline;\n}"
+}
