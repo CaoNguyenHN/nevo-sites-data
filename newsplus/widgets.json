@@ -1,0 +1,92 @@
+{
+    "sidebar-1": {
+        "nevo_posts_list_featured_widget-2": {
+            "title": "Popular Stories",
+            "layout": "content-59",
+            "number": 5,
+            "all_categories": 0,
+            "category": [
+                "13",
+                "14",
+                "15",
+                "18"
+            ],
+            "show_cat": 1,
+            "show_date": 1,
+            "orderby": "post_date",
+            "image_width": "cv-w-120",
+            "image_size": "thumbnail",
+            "separator1": 1
+        }
+    },
+    "sidebar-2": {
+        "block-2": {
+            "content": "<!-- wp:search \/-->"
+        },
+        "block-3": {
+            "content": "<!-- wp:group --><div class=\"wp-block-group\"><!-- wp:heading --><h2>Recent Posts<\/h2><!-- \/wp:heading --><!-- wp:latest-posts \/--><\/div><!-- \/wp:group -->"
+        },
+        "block-4": {
+            "content": "<!-- wp:group --><div class=\"wp-block-group\"><!-- wp:heading --><h2>Recent Comments<\/h2><!-- \/wp:heading --><!-- wp:latest-comments {\"displayAvatar\":false,\"displayDate\":false,\"displayExcerpt\":false} \/--><\/div><!-- \/wp:group -->"
+        },
+        "block-5": {
+            "content": "<!-- wp:group --><div class=\"wp-block-group\"><!-- wp:heading --><h2>Archives<\/h2><!-- \/wp:heading --><!-- wp:archives \/--><\/div><!-- \/wp:group -->"
+        },
+        "block-6": {
+            "content": "<!-- wp:group --><div class=\"wp-block-group\"><!-- wp:heading --><h2>Categories<\/h2><!-- \/wp:heading --><!-- wp:categories \/--><\/div><!-- \/wp:group -->"
+        }
+    },
+    "footer-1": {
+        "text-3": {
+            "title": "",
+            "text": "<img class=\"alignnone size-full wp-image-606\" src=\"https:\/\/demo.nevothemes.com\/newsplus\/wp-content\/uploads\/2025\/03\/logo-newsplus.png\" alt=\"\" width=\"229\" height=\"40\" \/>\r\n\r\nWe bring you the best Premium WordPress Themes that perfect for news, magazine, personal blog, etc. Check our\u00a0<a href=\"https:\/\/nevothemes.com\/\">landing page<\/a>\u00a0for details.\r\n\r\nLorem ipsum is dummy text or placeholder text commonly used in graphic design, publishing, and web development to fill spaces in a layout where there is no content.",
+            "filter": true,
+            "visual": true
+        }
+    },
+    "footer-2": {
+        "recent-posts-3": {
+            "title": "Recent Posts",
+            "number": 4,
+            "show_date": false
+        }
+    },
+    "footer-3": [],
+    "footer-4": {
+        "tag_cloud-3": []
+    },
+    "footer-5": [],
+    "footer-6": [],
+    "home-sidebar-1": {
+        "nevo_posts_list_featured_widget-4": {
+            "title": "Latest News",
+            "layout": "content-57",
+            "number": 4,
+            "all_categories": 0,
+            "category": [],
+            "show_cat": 1,
+            "show_date": 1,
+            "orderby": "post_date",
+            "image_width": "cv-w-120",
+            "image_size": "thumbnail",
+            "separator1": 1
+        },
+        "nevo_posts_list_featured_widget-5": {
+            "title": "Lifestyle & Sports",
+            "layout": "content-59",
+            "number": 5,
+            "all_categories": 0,
+            "category": [
+                "22",
+                "37"
+            ],
+            "show_cat": 1,
+            "show_date": 1,
+            "orderby": "post_date",
+            "image_width": "cv-w-120",
+            "image_size": "thumbnail",
+            "separator1": 1
+        }
+    },
+    "home-sidebar-2": []
+}
