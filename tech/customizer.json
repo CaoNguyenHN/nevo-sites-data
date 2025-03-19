@@ -1,0 +1,752 @@
+{
+    "nav_menu_locations": {
+        "primary": "[[term_id?taxonomy=nav_menu&slug=main-menu]]",
+        "mobile": "[[term_id?taxonomy=nav_menu&slug=main-menu]]",
+        "secondary": "[[term_id?taxonomy=nav_menu&slug=top-bar-menu]]"
+    },
+    "custom_css_post_id": 146,
+    "nevo_header_builder_controller_section": "{\"desktop\":{\"top\":{\"nc-col-0\":[{\"id\":\"secondary-menu\"}],\"nc-col-1\":[],\"nc-col-2\":[{\"id\":\"social-icons\"}]},\"main\":{\"nc-col-0\":[{\"id\":\"title-tagline\"},{\"id\":\"primary-menu\"}],\"nc-col-1\":[],\"nc-col-2\":[{\"id\":\"account\"}]},\"bottom\":{\"nc-col-0\":[],\"nc-col-1\":[],\"nc-col-2\":[]}},\"mobile\":{\"top\":{\"nc-col-0\":[],\"nc-col-1\":[],\"nc-col-2\":[]},\"main\":{\"nc-col-0\":[{\"id\":\"title-tagline\"}],\"nc-col-1\":[],\"nc-col-2\":[{\"id\":\"toggle-menu\"}]},\"bottom\":{\"nc-col-0\":[],\"nc-col-1\":[],\"nc-col-2\":[]}}}",
+    "nevo_footer_builder_controller_section": "{\"desktop\":{\"top\":{\"nc-col-0\":[],\"nc-col-1\":[],\"nc-col-2\":[]},\"main\":{\"nc-col-0\":[{\"id\":\"footer-1\"},{\"id\":\"footer-2\"}],\"nc-col-1\":[{\"id\":\"footer-3\"},{\"id\":\"footer-4\"}],\"nc-col-2\":[]},\"bottom\":{\"nc-col-0\":[],\"nc-col-1\":[{\"id\":\"footer-copyright\"}],\"nc-col-2\":[]}}}",
+    "global_color_style": {
+        "normal": {
+            "primary": "#4886ff",
+            "secondary": "#999395",
+            "success": "#198754",
+            "info": "#0dcaf0",
+            "warning": "#da5555",
+            "link": "#3b6ed1",
+            "link_hover": "#0045d1",
+            "base": "#212529",
+            "title": "#222222",
+            "meta": "#4b4545",
+            "heading": "#222222"
+        },
+        "hover": []
+    },
+    "custom_logo": "[[post_id?post_type=attachment&slug=logo]]",
+    "header_main_settings": {
+        "normal": {
+            "header_main_text_color": {
+                "desktop": "#ffffff",
+                "tablet": "",
+                "mobile": ""
+            },
+            "header_main_link_color": {
+                "desktop": "#ffffff",
+                "tablet": "",
+                "mobile": ""
+            },
+            "header_main_hover_link_color": {
+                "desktop": "#ffffff",
+                "tablet": "",
+                "mobile": ""
+            },
+            "header_main_bg_color": {
+                "desktop": "#4886ff",
+                "tablet": "",
+                "mobile": ""
+            },
+            "header_main_border_color": {
+                "desktop": "",
+                "tablet": "",
+                "mobile": ""
+            },
+            "header_main_border_bottom_size": {
+                "desktop": {
+                    "unit": "px",
+                    "value": ""
+                },
+                "tablet": {
+                    "unit": "px",
+                    "value": ""
+                },
+                "mobile": {
+                    "unit": "px",
+                    "value": ""
+                }
+            },
+            "header_main_padding": {
+                "desktop": {
+                    "unit": "px",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "link": "1"
+                },
+                "tablet": {
+                    "unit": "px",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "link": "1"
+                },
+                "mobile": {
+                    "unit": "px",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "link": "1"
+                }
+            }
+        }
+    },
+    "header_logo_name": "no",
+    "logo_max_width": {
+        "desktop": {
+            "unit": "px",
+            "value": "150"
+        },
+        "tablet": {
+            "unit": "px",
+            "value": ""
+        },
+        "mobile": {
+            "unit": "px",
+            "value": ""
+        }
+    },
+    "header_logo_retina": {
+        "id": "20",
+        "url": "https:\/\/demo.nevothemes.com\/tech\/wp-content\/uploads\/2025\/02\/logo@2x.png?t=1741510695902",
+        "mime": "image\/png"
+    },
+    "header_main_desktop_height": {
+        "unit": "px",
+        "value": "60"
+    },
+    "header_top_settings": {
+        "normal": {
+            "header_top_text_color": {
+                "desktop": "#ffffff",
+                "tablet": "",
+                "mobile": ""
+            },
+            "header_top_link_color": {
+                "desktop": "#ffffff",
+                "tablet": "",
+                "mobile": ""
+            },
+            "header_top_hover_link_color": {
+                "desktop": "#ffffff",
+                "tablet": "",
+                "mobile": ""
+            },
+            "header_top_bg_color": {
+                "desktop": "#3b6ed1",
+                "tablet": "",
+                "mobile": ""
+            },
+            "header_top_border_color": {
+                "desktop": "",
+                "tablet": "",
+                "mobile": ""
+            },
+            "header_top_border_bottom_size": {
+                "desktop": {
+                    "unit": "px",
+                    "value": ""
+                },
+                "tablet": {
+                    "unit": "px",
+                    "value": ""
+                },
+                "mobile": {
+                    "unit": "px",
+                    "value": ""
+                }
+            },
+            "header_top_padding": {
+                "desktop": {
+                    "unit": "px",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "link": "1"
+                },
+                "tablet": {
+                    "unit": "px",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "link": "1"
+                },
+                "mobile": {
+                    "unit": "px",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "link": "1"
+                }
+            }
+        }
+    },
+    "social_icons_setting": {
+        "default": {
+            "social_icons_color": {
+                "desktop": "#ffffff",
+                "tablet": "",
+                "mobile": ""
+            },
+            "social_icons_bg_color": {
+                "desktop": "#3b6ed1",
+                "tablet": "",
+                "mobile": ""
+            },
+            "social_icons_padding": {
+                "desktop": {
+                    "unit": "px",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "link": "1"
+                },
+                "tablet": {
+                    "unit": "px",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "link": "1"
+                },
+                "mobile": {
+                    "unit": "px",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "link": "1"
+                }
+            },
+            "social_icons_border_radius": {
+                "unit": "px",
+                "top": "",
+                "right": "",
+                "bottom": "",
+                "left": "",
+                "link": "1"
+            },
+            "social_icons_spacing": {
+                "unit": "px",
+                "value": "6"
+            }
+        },
+        "hover": {
+            "social_icons_color": {
+                "desktop": "",
+                "tablet": "",
+                "mobile": ""
+            },
+            "social_icons_bg_color": {
+                "desktop": "",
+                "tablet": "",
+                "mobile": ""
+            }
+        }
+    },
+    "header_main_submenu_styling": {
+        "normal": {
+            "header_main_submenu_text_color": "#222222",
+            "header_main_submenu_link_color": "#222222",
+            "header_main_submenu_hover_link_color": "#4886ff",
+            "header_main_submenu_highlight_color": "",
+            "header_main_submenu_bg_color": ""
+        }
+    },
+    "header_main_typography": {
+        "font": "",
+        "font_weight": "",
+        "languages": [],
+        "font_size": {
+            "desktop": {
+                "unit": "px",
+                "value": ""
+            },
+            "tablet": {
+                "unit": "px",
+                "value": ""
+            },
+            "mobile": {
+                "unit": "px",
+                "value": ""
+            }
+        },
+        "line_height": {
+            "desktop": {
+                "unit": "px",
+                "value": ""
+            },
+            "tablet": {
+                "unit": "px",
+                "value": ""
+            },
+            "mobile": {
+                "unit": "px",
+                "value": ""
+            }
+        },
+        "letter_spacing": {
+            "unit": "px",
+            "value": ""
+        },
+        "style": "",
+        "text_decoration": "",
+        "text_transform": "",
+        "variant": [],
+        "font_type": "normal"
+    },
+    "header_main_menu_typography": {
+        "font": "",
+        "font_weight": "500",
+        "languages": [],
+        "font_size": {
+            "desktop": {
+                "unit": "px",
+                "value": ""
+            },
+            "tablet": {
+                "unit": "px",
+                "value": ""
+            },
+            "mobile": {
+                "unit": "px",
+                "value": ""
+            }
+        },
+        "line_height": {
+            "desktop": {
+                "unit": "px",
+                "value": ""
+            },
+            "tablet": {
+                "unit": "px",
+                "value": ""
+            },
+            "mobile": {
+                "unit": "px",
+                "value": ""
+            }
+        },
+        "letter_spacing": {
+            "unit": "px",
+            "value": ""
+        },
+        "style": "",
+        "text_decoration": "",
+        "text_transform": "uppercase",
+        "variant": [],
+        "font_type": "normal"
+    },
+    "post_archive_layout": "content-24",
+    "page_header_style": {
+        "normal": {
+            "text_color": "#ffffff",
+            "link_color": "#ffffff",
+            "paddinga": {
+                "desktop": {
+                    "unit": "px",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "link": "1"
+                },
+                "tablet": {
+                    "unit": "px",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "link": "1"
+                },
+                "mobile": {
+                    "unit": "px",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "link": "1"
+                }
+            },
+            "bg_image": {
+                "id": "6",
+                "url": "https:\/\/demo.nevothemes.com\/tech\/wp-content\/uploads\/2025\/02\/tech2.jpg?t=1741511942270",
+                "mime": "image\/jpeg"
+            },
+            "bg_cover": "cover",
+            "bg_position": "center",
+            "bg_repeat": "no-repeat",
+            "bg_attachment": "",
+            "border_style": "",
+            "border_width": {
+                "unit": "px",
+                "top": "",
+                "right": "",
+                "bottom": "",
+                "left": "",
+                "link": "1"
+            },
+            "border_color": "",
+            "border_radius": {
+                "unit": "px",
+                "top": "",
+                "right": "",
+                "bottom": "",
+                "left": "",
+                "link": "1"
+            }
+        },
+        "hover": {
+            "link_color": ""
+        }
+    },
+    "post_single_page_header_display": "before",
+    "post_single_page_header_style": {
+        "normal": {
+            "post_single_text_color": "#222222",
+            "post_single_link_color": "#1e1e1e",
+            "post_single_hover_link_color": "#222222",
+            "post_single_bg_overlay_color": "#ffffff",
+            "post_single_bg_cover": "cover",
+            "post_single_bg_position": "center",
+            "post_single_bg_repeat": "no-repeat",
+            "post_single_bg_attachment": ""
+        }
+    },
+    "post_single_layout_padding": {
+        "desktop": {
+            "unit": "px",
+            "top": "0",
+            "right": "",
+            "bottom": "0",
+            "left": "",
+            "link": 1
+        },
+        "tablet": {
+            "unit": "px",
+            "top": "",
+            "right": "",
+            "bottom": "",
+            "left": "",
+            "link": 1
+        },
+        "mobile": {
+            "unit": "px",
+            "top": "",
+            "right": "",
+            "bottom": "",
+            "left": "",
+            "link": 1
+        }
+    },
+    "content_layout": "one-container",
+    "post_singleone_containers_padding": {
+        "desktop": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "link": 1
+        },
+        "tablet": {
+            "unit": "px",
+            "top": "",
+            "right": "",
+            "bottom": "",
+            "left": "",
+            "link": 1
+        },
+        "mobile": {
+            "unit": "px",
+            "top": "",
+            "right": "",
+            "bottom": "",
+            "left": "",
+            "link": 1
+        }
+    },
+    "post_single_images_ratio": "aspect-ratio:16\/9;",
+    "post_related_col": {
+        "desktop": "2",
+        "tablet": "2",
+        "mobile": "1"
+    },
+    "post_related_number": "4",
+    "post_related_display_post_date": 1,
+    "post_related_img_pos": "alignleft",
+    "post_archive_posts_per_page": "6",
+    "newsone_layout": "content-22",
+    "blog_posts_enables_frontpage": 1,
+    "blog_posts_hero_settings": {
+        "query": {
+            "categories_by": "cat",
+            "by_category": [],
+            "by_id": "",
+            "by_tag": "",
+            "by_author": [],
+            "exclude_id": "",
+            "offset": "",
+            "order_by": "title",
+            "sort_order": "DESC"
+        },
+        "output": {
+            "zoom_hover": "nevo-image-zoom",
+            "thumbnail_size": "default",
+            "display_cat": "true",
+            "display_avatar": "false",
+            "display_author": "true",
+            "display_date": "true",
+            "display_comment": "true",
+            "display_views": "false"
+        }
+    },
+    "newsone_tabs_or_link": "title",
+    "newsone_settings": {
+        "query": {
+            "categories_by": "cat",
+            "by_category": [],
+            "by_id": "",
+            "by_tag": "",
+            "by_author": [],
+            "exclude_id": "",
+            "offset": "",
+            "order_by": "rand",
+            "sort_order": "DESC"
+        },
+        "output": {
+            "display_cat": "true",
+            "display_avatar": "false",
+            "display_author": "true",
+            "display_date": "true",
+            "display_comment": "true",
+            "display_views": "false"
+        }
+    },
+    "newsone_number": "6",
+    "newsone_thumbnail_size": "thumbnail",
+    "newsone_title": "FeaturedNews",
+    "newstwo_layout": "content-52",
+    "newstwo_number": "5",
+    "newstwo_title": "Gear",
+    "newstwo_settings": {
+        "query": {
+            "categories_by": "cat",
+            "by_category": [
+                "audio",
+                "camera",
+                "laptop",
+                "smartphone"
+            ],
+            "by_id": "",
+            "by_tag": "",
+            "by_author": [],
+            "exclude_id": "",
+            "offset": "",
+            "order_by": "title",
+            "sort_order": "DESC"
+        },
+        "output": {
+            "display_cat": "true",
+            "display_avatar": "false",
+            "display_author": "true",
+            "display_date": "true",
+            "display_comment": "true",
+            "display_views": "false"
+        }
+    },
+    "newsthree_layout": "content-42",
+    "newsfour_layout": "disable",
+    "newsthree_title": "LatestNews",
+    "newseight_layout": "disable",
+    "content_heading_title": {
+        "general": {
+            "text_color": "",
+            "padding": {
+                "unit": "px",
+                "top": "",
+                "right": "",
+                "bottom": "6",
+                "left": "",
+                "link": ""
+            },
+            "margin": {
+                "unit": "px",
+                "top": "",
+                "right": "",
+                "bottom": "",
+                "left": "",
+                "link": "1"
+            },
+            "bg_color": "",
+            "bg_image": {
+                "id": "",
+                "url": "",
+                "mime": ""
+            },
+            "bg_cover": "",
+            "bg_position": "",
+            "bg_repeat": "repeat",
+            "bg_attachment": "",
+            "border_style": "solid",
+            "border_width": {
+                "unit": "px",
+                "top": "0",
+                "right": "0",
+                "bottom": "2",
+                "left": "0",
+                "link": ""
+            },
+            "border_color": "#c9daff",
+            "border_radius": {
+                "unit": "px",
+                "top": "",
+                "right": "",
+                "bottom": "",
+                "left": "",
+                "link": "1"
+            }
+        }
+    },
+    "newsone_ad": "<div class=\"text-center\"><a href=\"#\" target=\"_self\" rel=\"noopener\" class=\"adlink ads_image\"> <img src=\"https:\/\/demo.nevothemes.com\/tech\/wp-content\/uploads\/2025\/02\/ad_970x90.png\" class=\" lazyloaded\" data-src=\"https:\/\/demo.nevothemes.com\/tech\/wp-content\/uploads\/2025\/02\/ad_970x90.png\" alt=\"\" data-pin-no-hover=\"true\"> <\/a><\/div>",
+    "newstwo_ad": "<div class=\"text-center\"><a href=\"#\" target=\"_self\" rel=\"noopener\" class=\"adlink ads_image\"> <img src=\"https:\/\/demo.nevothemes.com\/tech\/wp-content\/uploads\/2025\/02\/ad_970x250.jpg\" class=\" lazyloaded\" data-src=\"https:\/\/demo.nevothemes.com\/tech\/wp-content\/uploads\/2025\/02\/ad_970x250.jpg\" alt=\"\" data-pin-no-hover=\"true\"> <\/a><\/div>",
+    "footer_middle_styling": {
+        "normal": {
+            "text_color": "",
+            "link_color": "",
+            "bg_color": "#edf1ff",
+            "bg_image": {
+                "id": "",
+                "url": "",
+                "mime": ""
+            },
+            "bg_cover": "",
+            "bg_position": "",
+            "bg_repeat": "repeat",
+            "bg_attachment": "",
+            "border_style": "",
+            "border_width": {
+                "unit": "px",
+                "top": "",
+                "right": "",
+                "bottom": "",
+                "left": "",
+                "link": "1"
+            },
+            "border_color": "",
+            "border_radius": {
+                "unit": "px",
+                "top": "",
+                "right": "",
+                "bottom": "",
+                "left": "",
+                "link": "1"
+            }
+        },
+        "hover": {
+            "link_color": "",
+            "border_width": {
+                "unit": "px",
+                "top": "",
+                "right": "",
+                "bottom": "",
+                "left": "",
+                "link": "1"
+            },
+            "border_color": ""
+        }
+    },
+    "footer_middle_padding": {
+        "desktop": {
+            "unit": "px",
+            "top": "60",
+            "right": "",
+            "bottom": "60",
+            "left": "",
+            "link": 1
+        },
+        "tablet": {
+            "unit": "px",
+            "top": "",
+            "right": "",
+            "bottom": "",
+            "left": "",
+            "link": 1
+        },
+        "mobile": {
+            "unit": "px",
+            "top": "",
+            "right": "",
+            "bottom": "",
+            "left": "",
+            "link": 1
+        }
+    },
+    "footer_middle_widgets_title": {
+        "normal": {
+            "text_color": "#3b6ed1",
+            "padding": {
+                "desktop": {
+                    "unit": "px",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "link": "1"
+                },
+                "tablet": {
+                    "unit": "px",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "link": "1"
+                },
+                "mobile": {
+                    "unit": "px",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "link": "1"
+                }
+            },
+            "bg_color": "",
+            "bg_image": {
+                "id": "",
+                "url": "",
+                "mime": ""
+            },
+            "bg_cover": "",
+            "bg_position": "",
+            "bg_repeat": "repeat",
+            "bg_attachment": "",
+            "border_style": "",
+            "border_width": {
+                "unit": "px",
+                "top": "",
+                "right": "",
+                "bottom": "",
+                "left": "",
+                "link": "1"
+            },
+            "border_color": "",
+            "border_radius": {
+                "unit": "px",
+                "top": "",
+                "right": "",
+                "bottom": "",
+                "left": "",
+                "link": "1"
+            }
+        },
+        "hover": []
+    },
+    "custom_css": ".nevo-nav-menu > li {\n    height: 100%;\n    align-items: center;\n    display: inline-flex;\n}\n.home .one-container .site-content {\n    padding: 0px 30px;\n}\nbody #page {\n    overflow: unset;\n}\n.inside-right-sidebar.inside-sidebar {\n    position: sticky;\n    top: 0;\n}\n.video-play-icon {\n\tposition: absolute;\n\ttop: 50%;\n\tleft: 50%;\n\ttransform: translate(-50%, -50%);\n\tbackground: rgba(0, 0, 0, 0.5);\n\tborder-radius: 50%;\n\tdisplay: flex;\n\talign-items: center;\n\tjustify-content: center;\n}\n\n.video-play-icon svg {\n\twidth: 35px;\n\theight: 35px;\n\tfill: white;\n}\n.nevo-cat.cat-links a:nth-child(n+3),\n.post-list-wrap .cat-links a:nth-child(n+3),\n.related-posts .nevo-cat-single.cat-links a:nth-child(n+3) {\n    display: none; \/* \u1ea8n c\u00e1c th\u1ebb t\u1eeb th\u1ee9 hai tr\u1edf \u0111i *\/\n}\n.nevo-cat.cat-links a:first-of-type,\n.post-list-wrap .cat-links a:first-of-type,\n.related-posts .nevo-cat-single.cat-links a:first-of-type {\n    display: inline; \/* display: block; Hi\u1ec3n th\u1ecb th\u1ebb \u0111\u1ea7u ti\u00ean d\u1ea1ng block *\/\n}"
+}
