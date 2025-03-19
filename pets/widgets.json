@@ -1,0 +1,56 @@
+{
+    "sidebar-1": {
+        "nevo_posts_list_featured_widget-2": {
+            "title": "Recent Posts.",
+            "layout": "content-59",
+            "number": 5,
+            "all_categories": 0,
+            "category": [],
+            "show_cat": 1,
+            "show_date": 1,
+            "orderby": "post_date",
+            "image_width": "cv-w-120",
+            "image_size": "thumbnail",
+            "separator1": 1
+        }
+    },
+    "sidebar-2": {
+        "block-2": {
+            "content": "<!-- wp:search \/-->"
+        },
+        "block-3": {
+            "content": "<!-- wp:group --><div class=\"wp-block-group\"><!-- wp:heading --><h2>Recent Posts<\/h2><!-- \/wp:heading --><!-- wp:latest-posts \/--><\/div><!-- \/wp:group -->"
+        },
+        "block-4": {
+            "content": "<!-- wp:group --><div class=\"wp-block-group\"><!-- wp:heading --><h2>Recent Comments<\/h2><!-- \/wp:heading --><!-- wp:latest-comments {\"displayAvatar\":false,\"displayDate\":false,\"displayExcerpt\":false} \/--><\/div><!-- \/wp:group -->"
+        },
+        "block-5": {
+            "content": "<!-- wp:group --><div class=\"wp-block-group\"><!-- wp:heading --><h2>Archives<\/h2><!-- \/wp:heading --><!-- wp:archives \/--><\/div><!-- \/wp:group -->"
+        },
+        "block-6": {
+            "content": "<!-- wp:group --><div class=\"wp-block-group\"><!-- wp:heading --><h2>Categories<\/h2><!-- \/wp:heading --><!-- wp:categories \/--><\/div><!-- \/wp:group -->"
+        }
+    },
+    "footer-1": [],
+    "footer-2": [],
+    "footer-3": [],
+    "footer-4": [],
+    "footer-5": [],
+    "footer-6": [],
+    "home-sidebar-1": {
+        "nevo_posts_list_featured_widget-3": {
+            "title": "Recent Posts.",
+            "layout": "content-50",
+            "number": 5,
+            "all_categories": 0,
+            "category": [],
+            "show_cat": 1,
+            "show_date": 1,
+            "orderby": "post_date",
+            "image_width": "cv-w-120",
+            "image_size": "thumbnail",
+            "separator1": 1
+        }
+    },
+    "home-sidebar-2": []
+}
