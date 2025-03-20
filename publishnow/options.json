@@ -1,0 +1,6 @@
+{
+    "show_on_front": "page",
+    "posts_per_page": "10",
+    "page_on_front": "[[post_id?post_type=page&slug=home]]",
+    "nevo_widget_visibility": "on"
+}

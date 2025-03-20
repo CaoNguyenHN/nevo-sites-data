@@ -1,0 +1,87 @@
+{
+    "sidebar-1": {
+        "nevo_posts_list_featured_widget-2": {
+            "title": "Latest",
+            "layout": "content-59",
+            "number": 5,
+            "all_categories": 0,
+            "category": [],
+            "show_cat": 1,
+            "show_date": 1,
+            "orderby": "post_date",
+            "image_width": "cv-w-120",
+            "image_size": "medium",
+            "separator1": 1
+        },
+        "nevo_advertisement_image-2": {
+            "title": "",
+            "image_link": "https:\/\/nevothemes.com\/",
+            "width": "",
+            "height": "",
+            "alt": "Custom Image Alt:",
+            "text_align": "text-center",
+            "image_url": "https:\/\/demo.nevothemes.com\/publishnow\/wp-content\/uploads\/2025\/02\/ad_345x345.jpg",
+            "separator1": 1
+        }
+    },
+    "sidebar-2": {
+        "block-2": {
+            "content": "<!-- wp:search \/-->"
+        },
+        "block-3": {
+            "content": "<!-- wp:group --><div class=\"wp-block-group\"><!-- wp:heading --><h2>Recent Posts<\/h2><!-- \/wp:heading --><!-- wp:latest-posts \/--><\/div><!-- \/wp:group -->"
+        },
+        "block-5": {
+            "content": "<!-- wp:group --><div class=\"wp-block-group\"><!-- wp:heading --><h2>Archives<\/h2><!-- \/wp:heading --><!-- wp:archives \/--><\/div><!-- \/wp:group -->"
+        },
+        "block-6": {
+            "content": "<!-- wp:group --><div class=\"wp-block-group\"><!-- wp:heading --><h2>Categories<\/h2><!-- \/wp:heading --><!-- wp:categories \/--><\/div><!-- \/wp:group -->"
+        },
+        "block-4": {
+            "content": "<!-- wp:group --><div class=\"wp-block-group\"><!-- wp:heading --><h2>Recent Comments<\/h2><!-- \/wp:heading --><!-- wp:latest-comments {\"displayAvatar\":false,\"displayDate\":false,\"displayExcerpt\":false} \/--><\/div><!-- \/wp:group -->"
+        }
+    },
+    "footer-1": {
+        "nevo_posts_list_featured_widget-4": {
+            "title": "Recent Post",
+            "layout": "content-52",
+            "number": 3,
+            "all_categories": 0,
+            "category": [],
+            "show_cat": 1,
+            "show_date": 1,
+            "orderby": "post_date",
+            "image_width": "cv-w-100",
+            "image_size": "thumbnail",
+            "separator1": 1
+        }
+    },
+    "footer-2": {
+        "nevo_posts_list_featured_widget-5": {
+            "title": "World",
+            "layout": "content-52",
+            "number": 3,
+            "all_categories": 0,
+            "category": [
+                "9"
+            ],
+            "show_cat": 1,
+            "show_date": 1,
+            "orderby": "post_date",
+            "image_width": "cv-w-100",
+            "image_size": "thumbnail",
+            "separator1": 1
+        }
+    },
+    "footer-3": {
+        "text-2": {
+            "title": "NevoThemes",
+            "text": "<img class=\"alignnone size-full wp-image-161\" src=\"https:\/\/demo.nevothemes.com\/publishnow\/wp-content\/uploads\/2025\/03\/white-publishnow-pro.png\" alt=\"\" width=\"280\" height=\"45\" \/>\r\n\r\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent malesuada rutrum volutpat. Nullam vel placerat nulla, vel malesuada nisi. Aliquam erat volutpat. Aenean id turpis eget ligula sollicitudin sollicitudin in id justo. Aliquam condimentum magna id hendrerit consectetur.",
+            "filter": true,
+            "visual": true
+        }
+    },
+    "footer-4": [],
+    "footer-5": [],
+    "footer-6": []
+}
