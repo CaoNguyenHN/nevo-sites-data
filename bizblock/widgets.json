@@ -1,0 +1,67 @@
+{
+    "sidebar-1": {
+        "nevo_posts_list_featured_widget-2": {
+            "title": "Recent Posts",
+            "layout": "content-59",
+            "number": 5,
+            "all_categories": 0,
+            "category": [],
+            "show_cat": 1,
+            "show_date": 1,
+            "orderby": "post_date",
+            "image_width": "cv-w-120",
+            "image_size": "medium",
+            "separator1": 1
+        },
+        "tag_cloud-2": {
+            "title": "Categories",
+            "count": 0,
+            "taxonomy": "category"
+        }
+    },
+    "sidebar-2": {
+        "block-2": {
+            "content": "<!-- wp:search \/-->"
+        },
+        "block-3": {
+            "content": "<!-- wp:group --><div class=\"wp-block-group\"><!-- wp:heading --><h2>Recent Posts<\/h2><!-- \/wp:heading --><!-- wp:latest-posts \/--><\/div><!-- \/wp:group -->"
+        },
+        "block-5": {
+            "content": "<!-- wp:group --><div class=\"wp-block-group\"><!-- wp:heading --><h2>Archives<\/h2><!-- \/wp:heading --><!-- wp:archives \/--><\/div><!-- \/wp:group -->"
+        },
+        "block-6": {
+            "content": "<!-- wp:group --><div class=\"wp-block-group\"><!-- wp:heading --><h2>Categories<\/h2><!-- \/wp:heading --><!-- wp:categories \/--><\/div><!-- \/wp:group -->"
+        },
+        "block-4": {
+            "content": "<!-- wp:group --><div class=\"wp-block-group\"><!-- wp:heading --><h2>Recent Comments<\/h2><!-- \/wp:heading --><!-- wp:latest-comments {\"displayAvatar\":false,\"displayDate\":false,\"displayExcerpt\":false} \/--><\/div><!-- \/wp:group -->"
+        }
+    },
+    "footer-1": {
+        "categories-3": {
+            "title": "Categories",
+            "count": 0,
+            "hierarchical": 0,
+            "dropdown": 0
+        }
+    },
+    "footer-2": {
+        "recent-posts-3": {
+            "title": "Recent Posts",
+            "number": 3,
+            "show_date": false
+        }
+    },
+    "footer-3": {
+        "archives-3": []
+    },
+    "footer-4": {
+        "text-3": {
+            "title": "About",
+            "text": "<p class=\"has-white-color has-text-color\">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<\/p>\r\n<p class=\"has-white-color has-text-color\">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<\/p>",
+            "filter": true,
+            "visual": true
+        }
+    },
+    "footer-5": [],
+    "footer-6": []
+}
